@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Working on GitHub Foundations exam.   Should I do the others?
 <!--
 **SixFigureSecurity/SixFigureSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
